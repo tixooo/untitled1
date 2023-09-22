@@ -1,6 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import Greeting from './GreetingsComponent.js';
+//import React from 'react';
+import ReactDOM from 'react-dom/client';
+import Greeting from './GreetingsComponent.jsx';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
